@@ -1,0 +1,2 @@
+The source of the dataset 
+Shekoufa, Navid; Rahimipour Anaraki, Javad; Samet, Saeed, 2019, "Replication Data for: Continuous Authentication using Touch Dynamics and its Application in Personal Health Records", https://doi.org/10.7910/DVN/VVXWZO, Harvard Dataverse, V1
